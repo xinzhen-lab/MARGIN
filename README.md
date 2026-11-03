@@ -24,7 +24,9 @@ MARGIN achieved a mean regional Dice of 83.2% on DEV#1 and 73.5–81.0% on the e
 
 ## Study overview
 
-![MARGIN framework](figures/overview.png)
+<img width="539" height="684" alt="image" src="https://github.com/user-attachments/assets/7f96f75f-36be-4d4d-8dd7-337d9dae9f29" />
+
+
 
 <!-- Replace with Fig. 1 of the paper, saved as figures/overview.png -->
 
